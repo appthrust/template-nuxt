@@ -1,0 +1,1 @@
+<template><main><h1>Nuxt on AppThrust</h1><p>Use DATABASE_URL for PostgreSQL.</p></main></template><style>body{margin:0}main{min-height:100vh;display:grid;place-content:center;text-align:center;font-family:Inter,system-ui,sans-serif;background:#083344;color:#f0f9ff}p{color:#bae6fd}</style>
